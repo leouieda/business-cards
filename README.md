@@ -1,3 +1,9 @@
 # Inkscape SVG for my business card
 
-![card](https://raw.githubusercontent.com/leouieda/card/master/card.png)
+Front:
+
+![card front](https://raw.githubusercontent.com/leouieda/card/master/card-front.png)
+
+Back:
+
+![card back](https://raw.githubusercontent.com/leouieda/card/master/card-back.png)
