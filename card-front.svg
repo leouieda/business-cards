@@ -15,8 +15,8 @@
    id="svg3525"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="card.svg"
-   inkscape:export-filename="/home/leo/src/card/card-front.png"
+   sodipodi:docname="card-front.svg"
+   inkscape:export-filename="card-front.png"
    inkscape:export-xdpi="60.959999"
    inkscape:export-ydpi="60.959999">
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="37.830729"
-     inkscape:cy="94.01601"
+     inkscape:zoom="0.96254604"
+     inkscape:cx="-19.699827"
+     inkscape:cy="73.443087"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -979,29 +979,22 @@
          id="tspan4707"
          sodipodi:role="line" /></text>
     <text
-       sodipodi:linespacing="125%"
+       sodipodi:linespacing="100%"
        id="text3911"
-       y="915.88989"
-       x="10.766266"
-       style="font-size:12px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Trebuchet MS Bold"
+       y="925.11194"
+       x="160.30927"
+       style="font-size:21.07786941999999897px;font-style:normal;font-weight:bold;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Trebuchet MS Bold"
        xml:space="preserve"><tspan
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
-         y="915.88989"
-         x="10.766266"
+         style="font-size:35.24377441000000033px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100%;text-anchor:end;fill:#ffffff;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+         y="925.11194"
+         x="160.30928"
          id="tspan3913"
-         sodipodi:role="line">leonardo uieda</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3915"
-       y="933.77954"
-       x="88.471344"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan4703"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-         y="933.77954"
-         x="88.471344"
-         sodipodi:role="line">geophysicist</tspan></text>
+         sodipodi:role="line">leonardo</tspan><tspan
+         style="font-size:35.24377441000000033px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100%;text-anchor:end;fill:#ffffff;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+         y="960.35571"
+         x="160.30927"
+         sodipodi:role="line"
+         id="tspan3236">uieda</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
@@ -1014,88 +1007,33 @@
          id="tspan3197"
          x="-13.928571"
          y="88.593918" /></text>
-    <g
-       id="g3267"
-       transform="matrix(1.1181636,0,0,1.1181636,-2.4279733,-114.26442)">
-      <g
-         transform="translate(0,10)"
-         id="g3261">
-        <text
-           sodipodi:linespacing="125%"
-           id="text3919-5"
-           y="985.8302"
-           x="31.194336"
-           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;word-spacing:-2.79999995px;fill:#f9f9f9;font-family:Monospace;-inkscape-font-specification:Monospace"
-             y="985.8302"
-             x="31.194336"
-             id="tspan3921-6"
-             sodipodi:role="line">+55 21 983636761</tspan></text>
-        <g
-           transform="matrix(0.86972083,0,0,0.86972083,83.574182,946.58782)"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-           id="text3199">
-          <path
-             d="m -68.64286,43.781418 c 0,-0.05469 0,-0.109375 -0.02344,-0.164063 -0.05469,-0.164062 -0.4375,-0.335937 -0.59375,-0.414062 -0.445312,-0.25 -0.898438,-0.492188 -1.335937,-0.75 -0.203125,-0.125 -0.453126,-0.359375 -0.695313,-0.359375 -0.476562,0 -1.171875,1.414062 -1.59375,1.414062 -0.210937,0 -0.484375,-0.195312 -0.671875,-0.304687 -1.421873,-0.789062 -2.406251,-1.773439 -3.195312,-3.195313 -0.109375,-0.187499 -0.304688,-0.460937 -0.304688,-0.671875 0,-0.421874 1.414063,-1.117188 1.414063,-1.59375 0,-0.242187 -0.234376,-0.492187 -0.359375,-0.695312 -0.257813,-0.4375 -0.500001,-0.890626 -0.75,-1.335938 -0.07813,-0.156249 -0.250001,-0.539062 -0.414063,-0.59375 -0.05469,-0.02344 -0.109375,-0.02344 -0.164062,-0.02344 -0.28125,0 -0.828126,0.125 -1.085938,0.242187 -0.382812,0.164063 -0.632813,0.601563 -0.828125,0.953125 -0.25,0.460937 -0.398437,0.929688 -0.398437,1.453125 0,0.726562 0.296875,1.382814 0.539062,2.046875 0.171875,0.476562 0.382813,0.937501 0.648438,1.367188 0.820311,1.328124 2.421876,2.929688 3.75,3.75 0.429687,0.265625 0.890625,0.476563 1.367187,0.648437 0.664062,0.242188 1.320313,0.539063 2.046875,0.539063 0.523437,0 0.992188,-0.148438 1.453125,-0.398438 0.351562,-0.195312 0.789063,-0.445313 0.953125,-0.828125 0.117187,-0.257812 0.242188,-0.804687 0.242188,-1.085937"
-             style="fill:#f9f9f9"
-             id="path3218"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         transform="translate(0,11.878841)"
-         id="g3249">
-        <text
-           sodipodi:linespacing="125%"
-           id="text3919"
-           y="1000.9579"
-           x="31.194336"
-           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;font-family:Monospace;-inkscape-font-specification:Monospace"
-             y="1000.9579"
-             x="31.194336"
-             id="tspan3921"
-             sodipodi:role="line">leouieda@gmail.com</tspan></text>
-        <g
-           transform="matrix(0.86972083,0,0,0.86972083,51.518731,934.21085)"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-           id="text3203">
-          <path
-             d="m -30.285713,70.614984 c -0.234375,0.257812 -0.5,0.484375 -0.78125,0.679688 -1.304686,0.882811 -2.617189,1.773438 -3.890625,2.695312 -0.65625,0.484375 -1.468751,1.078125 -2.320313,1.078125 l -0.0078,0 -0.0078,0 c -0.851561,0 -1.664063,-0.59375 -2.320312,-1.078125 -1.273436,-0.929687 -2.585939,-1.812501 -3.882813,-2.695312 -0.289062,-0.195313 -0.554687,-0.421876 -0.789062,-0.679688 l 0,6.203125 c 0,0.687499 0.5625,1.25 1.25,1.25 l 11.5,0 c 0.687499,0 1.25,-0.562501 1.25,-1.25 l 0,-6.203125 m 0,-2.296875 c 0,-0.687499 -0.570313,-1.25 -1.25,-1.25 l -11.5,0 c -0.835937,0 -1.25,0.656251 -1.25,1.421875 0,0.710937 0.789063,1.59375 1.34375,1.96875 1.210936,0.843749 2.437501,1.687501 3.648437,2.539063 0.507812,0.351562 1.367188,1.070312 2,1.070312 l 0.0078,0 0.0078,0 c 0.632812,0 1.492188,-0.71875 2,-1.070312 1.210937,-0.851562 2.437502,-1.695314 3.65625,-2.539063 0.6875,-0.476562 1.335938,-1.265626 1.335938,-2.140625"
-             style="fill:#f9f9f9"
-             id="path3215"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         transform="translate(0,10)"
-         id="g3255">
-        <text
-           sodipodi:linespacing="125%"
-           id="text3923"
-           y="1021.7285"
-           x="31.194336"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-           xml:space="preserve"><tspan
-             style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;font-family:Monospace;-inkscape-font-specification:Monospace"
-             y="1021.7285"
-             x="31.194336"
-             id="tspan3925"
-             sodipodi:role="line">leouieda.com</tspan></text>
-        <g
-           transform="matrix(0.95427005,0,0,0.95427005,52.081048,989.4304)"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-           id="text3207">
-          <path
-             d="m -30.07143,30.415344 c 0,-0.01563 0,-0.03125 -0.0078,-0.04687 l -4.492187,-3.703125 -4.492188,3.703125 c 0,0.01563 -0.0078,0.03125 -0.0078,0.04687 l 0,3.75 c 0,0.273437 0.226563,0.5 0.5,0.5 l 3,0 0,-3 2,0 0,3 3,0 c 0.273437,0 0.5,-0.226563 0.5,-0.5 l 0,-3.75 m 1.742187,-0.539062 c 0.08594,-0.101563 0.07031,-0.265625 -0.03125,-0.351563 l -1.710937,-1.421875 0,-3.1875 c 0,-0.140625 -0.109375,-0.25 -0.25,-0.25 l -1.5,0 c -0.140625,0 -0.25,0.109375 -0.25,0.25 l 0,1.523438 -1.90625,-1.59375 c -0.328125,-0.273437 -0.859376,-0.273437 -1.1875,0 l -5.617188,4.679687 c -0.101562,0.08594 -0.117187,0.25 -0.03125,0.351563 l 0.484375,0.578125 c 0.03906,0.04687 0.101563,0.07813 0.164063,0.08594 0.07031,0.0078 0.132812,-0.01563 0.1875,-0.05469 l 5.40625,-4.507813 5.40625,4.507813 c 0.04687,0.03906 0.101562,0.05469 0.164062,0.05469 0.0078,0 0.01563,0 0.02344,0 0.0625,-0.0078 0.125,-0.03906 0.164062,-0.08594 l 0.484375,-0.578125"
-             style="fill:#f9f9f9"
-             id="path3221"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
+    <text
+       sodipodi:linespacing="150%"
+       id="text3919-5"
+       y="998.12134"
+       x="160.34984"
+       style="font-size:12.12224770000000085px;font-style:normal;font-weight:bold;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Trebuchet MS Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="998.12134"
+         x="160.34984"
+         id="tspan3921-6"
+         sodipodi:role="line">+55 21 983636761</tspan><tspan
+         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="1016.3047"
+         x="160.34984"
+         sodipodi:role="line"
+         id="tspan3198">leouieda@gmail.com</tspan><tspan
+         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="1034.488"
+         x="160.34984"
+         sodipodi:role="line"
+         id="tspan3200">www.leouieda.com</tspan><tspan
+         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="1052.6715"
+         x="160.34984"
+         sodipodi:role="line"
+         id="tspan3196" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3241"
@@ -1106,5 +1044,15 @@
            height="24.642857"
            x="-85.35714"
            y="33.951057" /></flowRegion><flowPara
-         id="flowPara3247"></flowPara></flowRoot>  </g>
+         id="flowPara3247" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3202"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Trebuchet MS;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Trebuchet MS;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3204"><rect
+           id="rect3206"
+           width="14160.318"
+           height="172.73608"
+           x="-14058.293"
+           y="-186.48958" /></flowRegion><flowPara
+         id="flowPara3208"></flowPara></flowRoot>  </g>
 </svg>
