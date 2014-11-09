@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="177.16534"
-   height="177.16534"
+   width="198.42519"
+   height="198.42519"
    id="svg3525"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.96254604"
-     inkscape:cx="-19.699827"
+     inkscape:cx="23.934449"
      inkscape:cy="73.443087"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -950,22 +950,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-875.19689)"
+     transform="translate(0,-853.93704)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
        style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="rect3670"
-       width="177.16536"
-       height="177.16536"
+       width="198.4252"
+       height="198.4252"
        x="0"
-       y="875.19684" />
+       y="853.93701" />
     <text
        transform="translate(0,872.36224)"
        sodipodi:linespacing="125%"
@@ -981,18 +981,18 @@
     <text
        sodipodi:linespacing="100%"
        id="text3911"
-       y="925.11194"
-       x="160.30927"
-       style="font-size:21.07786941999999897px;font-style:normal;font-weight:bold;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Trebuchet MS Bold"
+       y="914.46991"
+       x="170.93919"
+       style="font-size:21.07786942px;font-style:normal;font-weight:bold;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Trebuchet MS Bold"
        xml:space="preserve"><tspan
-         style="font-size:35.24377441000000033px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100%;text-anchor:end;fill:#ffffff;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
-         y="925.11194"
-         x="160.30928"
+         style="font-size:35.24377441px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100%;text-anchor:end;fill:#ffffff;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+         y="914.46991"
+         x="170.93919"
          id="tspan3913"
          sodipodi:role="line">leonardo</tspan><tspan
-         style="font-size:35.24377441000000033px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100%;text-anchor:end;fill:#ffffff;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
-         y="960.35571"
-         x="160.30927"
+         style="font-size:35.24377441px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100%;text-anchor:end;fill:#ffffff;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+         y="949.71368"
+         x="170.93919"
          sodipodi:role="line"
          id="tspan3236">uieda</tspan></text>
     <text
@@ -1010,34 +1010,34 @@
     <text
        sodipodi:linespacing="150%"
        id="text3919-5"
-       y="998.12134"
-       x="160.34984"
-       style="font-size:12.12224770000000085px;font-style:normal;font-weight:bold;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Trebuchet MS Bold"
+       y="987.47931"
+       x="170.97977"
+       style="font-size:12.1222477px;font-style:normal;font-weight:bold;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Trebuchet MS Bold"
        xml:space="preserve"><tspan
-         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         y="998.12134"
-         x="160.34984"
+         style="font-size:12.1222477px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="987.47931"
+         x="170.97977"
          id="tspan3921-6"
          sodipodi:role="line">+55 21 983636761</tspan><tspan
-         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         y="1016.3047"
-         x="160.34984"
+         style="font-size:12.1222477px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="1005.6627"
+         x="170.97977"
          sodipodi:role="line"
          id="tspan3198">leouieda@gmail.com</tspan><tspan
-         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         y="1034.488"
-         x="160.34984"
+         style="font-size:12.1222477px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="1023.846"
+         x="170.97977"
          sodipodi:role="line"
          id="tspan3200">www.leouieda.com</tspan><tspan
-         style="font-size:12.12224770000000085px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         y="1052.6715"
-         x="160.34984"
+         style="font-size:12.1222477px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:150%;word-spacing:0px;text-anchor:end;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="1042.0295"
+         x="170.97977"
          sodipodi:role="line"
          id="tspan3196" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3241"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FontAwesome;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:FontAwesome;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"><flowRegion
          id="flowRegion3243"><rect
            id="rect3245"
            width="80.35714"
@@ -1047,12 +1047,12 @@
          id="flowPara3247" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3202"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Trebuchet MS;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Trebuchet MS;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
          id="flowRegion3204"><rect
            id="rect3206"
            width="14160.318"
            height="172.73608"
            x="-14058.293"
            y="-186.48958" /></flowRegion><flowPara
-         id="flowPara3208"></flowPara></flowRoot>  </g>
+         id="flowPara3208" /></flowRoot>  </g>
 </svg>
